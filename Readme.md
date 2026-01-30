@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark Kevin R. Tac-an</h1>
-<h3 align="center">A passionate frontend developer from Philippines, Davao City 20, single ready to mingle meet up sm lanang</h3>
+<h3 align="center">A passionate frontend developer from Philippines, Davao City, 20</h3>
 
 - 🌱 I’m currently learning **HTTML AND CSS**
 
